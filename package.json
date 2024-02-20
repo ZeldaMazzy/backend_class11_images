@@ -1,0 +1,21 @@
+{
+	"name": "ImageAPI_class11",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"keywords": [],
+	"author": "zeldamazur",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.4.1",
+		"express": "^4.17.1",
+		"express-fileupload": "^1.4.3",
+		"mongoose": "^8.1.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.7"
+	}
+}
